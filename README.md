@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x15o3i
 - 👀 I’m interested in a lot of things actually
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html and css and a bit of JS
 - 💞️ I’m looking to collaborate on maybe a Javascript or html code
 - 📫 How to reach me instagram.com/x15o3i
 
